@@ -1,0 +1,117 @@
+#logindiv
+{
+margin-left: 600px;
+margin-top: 10px;
+width: 460px;
+text-align: center;
+color: rgb(243, 243, 243);
+
+background-image:url("image1.png");
+}
+
+#loginform
+{
+margin-left: 50px;
+}
+body
+{
+
+margin:0;
+}
+#button1
+{
+background-color: rgb(253, 206, 16);
+color: rgb(14, 12, 12);
+border: 1px solid white;
+border-radius: 4px;
+font-size: 15px;
+height: 25px;
+width:100px;
+}
+.image1div
+{
+width:100%;
+height:100%;
+
+
+}
+.inside_label
+{
+font-size:30px;
+margin-top:10px;
+margin-left:5px;
+}
+.imagelabel
+{
+width: 450px;
+height: 75;
+z-index: 999;
+float: right;
+color:white;
+font-size:20px;
+background-color: black;
+margin-top: 126;
+opacity:0.5;
+}
+.imagediv
+{
+height:200px;
+width:450px;
+}
+.inside_label
+{
+font-size:30px;
+margin-top:10px;
+margin-left:5px;
+}
+#error
+{
+color:red;
+}
+#sideimage1
+{
+background-image:url('side1.png');
+}
+#sideimage2
+{
+background-image:url('side2.png');
+}
+#sideimage3
+{
+background-image:url('side3.png');
+}
+#sideimage4
+{
+background-image:url('side4.png');
+}
+#errname,#errpass
+{
+display:none;
+margin-left: 60;
+}
+#top{
+width:100%;
+height:100px;
+background:#CC0000;
+background-color:rgb(156, 9, 9);
+box-shadow: 10px 10px 10px #1F0A03;
+}
+#deco
+{
+margin-left: 20px;
+
+width: 450px;
+height: 900;
+float: left;
+}
+#main
+{
+
+background-image:url("image3.png");
+margin:auto;
+width:1100px;
+height:900px;
+margin-top: 20px;
+box-shadow: 10px 10px 10px #1F0A03;
+}
+
